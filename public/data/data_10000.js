@@ -1,6 +1,15 @@
 dataReady({people:[
     {
         "rating": 1.0,
+        "from": 1967,
+        "name": "David Wharnsby",
+        "country": "Canada",
+        "to": 0,
+        "link": "https://en.wikipedia.org/wiki/David_Wharnsby",
+        "type": "arts"
+    },
+    {
+        "rating": 1.0,
         "from": -7,
         "name": "Jesus",
         "country": "Israel",
